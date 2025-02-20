@@ -8,10 +8,10 @@
 
 <h2>📃 Certifications </h2>
 
-- [Google IT Support Professional](https://www.credly.com/earner/earned/badge/2d01811c-bc30-4a76-881e-0cefad7fc07b)
-- [CompTIA A+]()
-- [CompTIA Network+()
-- [CompTIA Security+()
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/QGBX7EU3BSFQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [CompTIA A+](https://www.credly.com/earner/earned/badge/2d01811c-bc30-4a76-881e-0cefad7fc07b)
+- [CompTIA Network+](https://www.credly.com/earner/earned/badge/8b164075-8265-487c-882b-e84573c8a6a3)
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/e476a33c-8bf9-4869-b630-c6aeca2da0f3)
 
 <h2> 🤳 Connect with me:</h2>
 
