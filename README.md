@@ -1,6 +1,6 @@
 <h1>Hi, I'm Robert! </h1>
 
-<h2>👨‍💻 IT Projects Projects:</h2>
+<h2>👨‍💻 IT Projects Projects</h2>
 
 
   - [Active Directory Home Lab](https://github.com/Robertmatos1/ActiveDirectoryLab/tree/main)
@@ -13,7 +13,7 @@
 - [CompTIA Network+](https://www.credly.com/earner/earned/badge/8b164075-8265-487c-882b-e84573c8a6a3)
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/e476a33c-8bf9-4869-b630-c6aeca2da0f3)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
